@@ -201,7 +201,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
+    <td>.04<br>-4<br>6<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
